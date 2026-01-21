@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.Write("hmmm ");
 Console.WriteLine("i like pizza");
-Console.WriteLine("its tasty");
+Console.WriteLine("its so tasty");
 int x;
 x = 20;
 
