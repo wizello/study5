@@ -16,8 +16,7 @@ Console.WriteLine("I am " + y + " years old");
 double height = 100.5;
 Console.WriteLine("My height is " + height + "cm");
 
-bool alive = true;
-Console.WriteLine("are you alive? " + alive);
+
 
 char symbol = '@';
 Console.WriteLine("your character is " + symbol);
