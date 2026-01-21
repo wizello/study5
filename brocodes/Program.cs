@@ -27,5 +27,3 @@ Console.WriteLine("Hello " + name);
 
 String username = symbol + name;
 Console.WriteLine("your username is " + username);
-Console.WriteLine("your username is " + username);
-Console.WriteLine("your username is " + username);
